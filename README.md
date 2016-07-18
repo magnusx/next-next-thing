@@ -1,2 +1,4 @@
-# next-next-thing
-Hörrni grabbar, vi borde hitta på nåt
+# The Next Next Thing
+
+"Hörrni grabbar, vi borde hitta på nåt!"
+
